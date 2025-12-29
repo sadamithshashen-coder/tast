@@ -188,7 +188,8 @@
                  <div class="q-gutter-y-sm flex column">
                     <a href="#" class="text-grey-6 text-decoration-none hover-text-white">About Us</a>
                     <a href="#" class="text-grey-6 text-decoration-none hover-text-white">Careers</a>
-                    <a href="#" class="text-grey-6 text-decoration-none hover-text-white">Contact</a>
+                    <a href="mailto:sadamithshashen@gmail.com" class="text-grey-6 text-decoration-none hover-text-white">Contact</a>
+                    <div class="text-grey-8 text-caption q-mt-sm">sadamithshashen@gmail.com</div>
                 </div>
             </div>
             <div class="col-12 col-md-4">
